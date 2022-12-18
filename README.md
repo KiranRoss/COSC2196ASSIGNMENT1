@@ -27,7 +27,7 @@ Some of the areas I hope to cover in my studies include programming, network adm
 <h1>Ideal Job</h1>
 My ideal job in IT would Python Developer, link and image to job below.
  
-![image](images/208295363-728f1dc0-45c7-4e7f-a7f4-c8b4d8bfb351.png) <br>(Seek, 2022)
+<img src="/images/Seek Job.PNG">
  
 https://www.seek.com.au/job/59407851?type=standout#sol=39fc355f2939eafd631106b16e0c1d3da7ea1106 <br>(Seek, 2022)<br>
 
